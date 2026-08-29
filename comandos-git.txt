@@ -1,4 +1,4 @@
-Lista de Comandos do Git Aprendidos:
+Lista BÁSICA de Comandos Git Aprendidos:
 
 git init - Inicializa um repositório Git
 git clone - Clona um repositório remoto
